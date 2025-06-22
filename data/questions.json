@@ -1,0 +1,13 @@
+[
+  {
+    "text": "HTML bu nima?",
+    "options": [
+      "Dasturlash tili",
+      "Belgilash tili",
+      "Brauzer",
+      "Ma’lumotlar bazasi"
+    ],
+    "correct": 1,
+    "explanation": "HTML — bu belgilash tili."
+  }
+]
